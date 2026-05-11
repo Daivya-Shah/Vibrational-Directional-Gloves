@@ -36,7 +36,7 @@ The Vibrating Directional Gloves (VDG) project aims to enhance driving safety by
 ## Installation
 
 ### Hardware Setup
-1. Assemble the circuit on the breadboard with Arduino Nano 33 BLE Sense, vibration motors, and other components as described in the [circuit diagram](./CircuitDiagram.png).
+1. Assemble the circuit on the breadboard with Arduino Nano 33 BLE Sense, vibration motors, and other components.
 2. Secure the Arduino and components in the 3D-printed frame.
 3. Attach the frame to the glove made from a Nike sock using Velcro.
 
